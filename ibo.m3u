@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:12,|AR|MTVLEBANONHD
+https://cllive.itworkscdn.net/mtvlebanonlive/token=nva=1638957189~dirs=1~hash=0c4508e608bcbd278e37f/mtvlive.smil/murrtelevision_chunks.m3u8
+#EXTINF:12,|AR|MTV 2
+http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:24,ALJADEED TV HD
+http://185.9.2.25/MCNC_AL_JADEED/tracks-v1a1/mono.m3u8?token=telearabiamax.tv
+#EXTINF:12,|AR|Mayadeen
+https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/chunklist_b1300000.m3u8
+#EXTINF:12,|AR|AL Mayadeen
+https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/chunklist_b1300000.m3u8?v=1599861527
+#EXTINF:12,|AR|LBC I
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_1.m3u8
+#EXTINF:12,|AR|ALL MAYADEN
+http://192.34.153.36:7777/AlMayadeen_HD/AlMayadeen_High.m3u8?user=sgls540839&session=c7b62149834b62246a4e0a287f1434061455601c89b5417c07150a391e4212549817224ea3922e90de2a9a15d4e21705&hlsid=HTTP_ID_1&starttime=20210929T140104.031211
